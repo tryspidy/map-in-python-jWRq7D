@@ -1,0 +1,2 @@
+#Syntax
+map(functions, iterables)
